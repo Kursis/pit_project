@@ -1,1 +1,2 @@
-# pit_projectNekustamā īpašuma vērtības novērtēšanas portāls
+# pit_project
+Nekustamā īpašuma vērtības novērtēšanas portāls
